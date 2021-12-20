@@ -10,7 +10,7 @@
 #                    
 # ***************************************************************************************************
 # SUMMARY OF CHANGES
-# Date(yyyy-mm-dd)    Author              Comments
+# Date(dd-mm-yyyy)    Author              Comments
 # ------------------- ------------------- -----------------------------------------------------------
 # 18-12-2021          Pasquale D. 		  Initial Release
 # 20-12-2021          Pasquale D. 		  Added other CVE rows									  
