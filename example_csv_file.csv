@@ -1,0 +1,2 @@
+supplier,product,version,status_cve_2021_4104,status_cve_2021_44228,status_cve_2021_45046,status_cve_2021_45105,notes,link
+Dell,Alienware Command Center,Unknown,Not vuln,Not vuln,Not vuln,Not vuln,,https://www.dell.com/support/kbdoc/nl-nl/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability
