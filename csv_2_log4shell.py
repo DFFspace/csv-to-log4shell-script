@@ -5,8 +5,6 @@
 # Create Date:        18-12-2021
 # Author:             Pasquale D.
 # Description:        Convert a CSV file to log4shell markdown tables 
-#                     
-#
 #                    
 # ***************************************************************************************************
 # SUMMARY OF CHANGES
